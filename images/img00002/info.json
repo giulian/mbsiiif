@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 24,
+    "height" : 38
+  }, {
+    "width" : 47,
+    "height" : 75
+  }, {
+    "width" : 93,
+    "height" : 150
+  }, {
+    "width" : 185,
+    "height" : 300
+  }, {
+    "width" : 370,
+    "height" : 600
+  }, {
+    "width" : 740,
+    "height" : 1200
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 740,
+  "@id" : "https://giulian.github.io/mbsiiif/images/img00002",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1200
+}
