@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://giulian.github.io/mbsiiif/annotations/df8ebbc80daafbb00ff4ae125dfcc758.json" ],
+  "otherContent" : [ ],
   "@id" : "https://giulian.github.io/mbsiiif/annotations/collection.json",
   "label" : "All annotations loaded in giulian/mbsiiif project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
